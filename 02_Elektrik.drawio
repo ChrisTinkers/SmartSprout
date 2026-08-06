@@ -123,7 +123,7 @@
         <mxCell id="haUIM5n60mRHFLbLrk9Q-18" edge="1" parent="1" source="haUIM5n60mRHFLbLrk9Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" target="haUIM5n60mRHFLbLrk9Q-13" value="GPIO">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="haUIM5n60mRHFLbLrk9Q-58" edge="1" parent="1" source="haUIM5n60mRHFLbLrk9Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="haUIM5n60mRHFLbLrk9Q-55">
+        <mxCell id="haUIM5n60mRHFLbLrk9Q-58" edge="1" parent="1" source="haUIM5n60mRHFLbLrk9Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="haUIM5n60mRHFLbLrk9Q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="haUIM5n60mRHFLbLrk9Q-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GND" vertex="1">
@@ -135,7 +135,7 @@
         <mxCell id="haUIM5n60mRHFLbLrk9Q-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="QB1" vertex="1">
           <mxGeometry height="40" width="60" x="440" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="haUIM5n60mRHFLbLrk9Q-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="MOSFET Driver Board (6 Kanäle)" vertex="1">
+        <mxCell id="haUIM5n60mRHFLbLrk9Q-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="MOSFET Driver Board (6 Kanäle)&lt;div&gt;IN1 - IN6&lt;/div&gt;&lt;div&gt;OUT1 - OUT6&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="510" y="710" as="geometry" />
         </mxCell>
         <mxCell id="haUIM5n60mRHFLbLrk9Q-59" edge="1" parent="1" source="haUIM5n60mRHFLbLrk9Q-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="haUIM5n60mRHFLbLrk9Q-24">
