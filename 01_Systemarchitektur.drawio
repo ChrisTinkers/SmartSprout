@@ -111,6 +111,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FGBW0YSAQ4Kx2AHVUqHl-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SmartSprout&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;u&gt;Legende&lt;/u&gt;&lt;/b&gt;:&lt;br&gt;&lt;/p&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Kennung&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;ESP32&lt;/td&gt;&lt;td&gt;MCU1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;LM2596&lt;/td&gt;&lt;td&gt;DC1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Netzteil&lt;/td&gt;&lt;td&gt;PSU1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pumpenmodul&lt;/td&gt;&lt;td&gt;PM1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pumpe 1–6&lt;/td&gt;&lt;td&gt;M1–M6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Leckagesensor&lt;/td&gt;&lt;td&gt;LS1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tanksensor&lt;/td&gt;&lt;td&gt;TS1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="290" width="340" x="420" y="-60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
