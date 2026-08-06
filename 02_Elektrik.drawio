@@ -188,6 +188,9 @@
         <mxCell id="haUIM5n60mRHFLbLrk9Q-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="GND Verteiler (Wago)" vertex="1">
           <mxGeometry height="30" width="110" x="414" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="aIC1txxGseceJwWj9SFM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WLAN" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="700" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
